@@ -1,7 +1,7 @@
-name: Cassidy Ward
-date: 11/17/2021
-description: this program takes as a parameter a string
-and returns a dictionary that tabulates how many of each letter is in that string
+#name: Cassidy Ward
+#date: 11/17/2021
+#description: this program takes as a parameter a string
+# and returns a dictionary that tabulates how many of each letter is in that string
 
 def count_letters(string):
     letter_dic = {}
